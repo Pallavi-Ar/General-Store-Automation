@@ -7,11 +7,11 @@ Automating General Store Apk using Appium
 <br />
 --Gradle and Cucumber
 
-Open app
-Login
-Add products to cart
-Verify that products are added
-Checkout
-Search "Appium" on web
-Store search results in a list
-Print size of the list to verify that values were searched
+1) Open app <br />
+2) Login <br />
+3) Add products to cart <br />
+4) Verify that products are added <br />
+5) Checkout <br />
+6) Search "Appium" on web <br />
+7) Store search results in a list <br />
+8) Print size of the list to verify that values were searched
