@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automating General Store App" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-08-18T13:26:02" hostname="GEMGN-220007" time="106.293">
+  <properties/>
+  <testcase name="User opens General Store App" classname="Automating General Store App" time="17.185"/>
+  <testcase name="User Selects Country" classname="Automating General Store App" time="35.144"/>
+  <testcase name="User Tries to Login Without Name Input" classname="Automating General Store App" time="7.379"/>
+  <testcase name="User logins With Name" classname="Automating General Store App" time="4.485"/>
+  <testcase name="User Adds Products to Cart" classname="Automating General Store App" time="11.349"/>
+  <testcase name="User Goes to Cart" classname="Automating General Store App" time="1.827"/>
+  <testcase name="User Searches on the Web" classname="Automating General Store App" time="28.923"/>
+  <system-out><![CDATA[One item in cart
+Product verified
+27
+Result verified
+]]></system-out>
+  <system-err><![CDATA[Aug 18, 2023 6:56:18 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
